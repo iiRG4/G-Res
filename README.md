@@ -12,17 +12,17 @@ A tool for managing and switching display resolutions. It detects available moni
 ### Quick Switch
 Quickly modify Windows resolution without compromising the highest available refresh rate.
 
-<img width="336" height="230" alt="G-Res Quick Switch" src="https://github.com/user-attachments/assets/a189448b-720e-45ab-ac1b-e06b0977e314" />
+<img width="336" height="230" alt="G-Res Quick Switch" src="https://github.com/user-attachments/assets/31efeeb6-3c59-4da9-af09-72f735af1429" />
 
 ### Hotkeys Manager
 Assign a custom shortcut to automatically switch your display resolution, even while running a game, and use a dedicated hotkey to enable or disable the monitor directly.
 
-<img width="336" height="216" alt="G-Res Hotkeys Manager" src="https://github.com/user-attachments/assets/ed99d18a-0f71-4e96-9598-706a0aa2c79f" />
+<img width="336" height="216" alt="G-Res Hotkeys Manager" src="https://github.com/user-attachments/assets/02e2268e-fd5f-41dc-9ae7-6dfabb02cf45" />
 
 ### Settings
 You can enable Run with startup from the settings tab to launch the app automatically with Windows.
 
-<img width="332" height="192" alt="G-Res Settings" src="https://github.com/user-attachments/assets/f940e6d9-5399-4b28-80f9-a337c94d5ee1" />
+<img width="332" height="192" alt="G-Res Settings" src="https://github.com/user-attachments/assets/58a5b9b0-286b-4b58-ba07-55b82257df9a" />
 
 ## Features
 
@@ -30,7 +30,7 @@ You can enable Run with startup from the settings tab to launch the app automati
 * **Seamless Background Operation:** Runs quietly in the system tray for instant hotkey resolution switching.
 * **Safe & Secure:** Built with clean, standard Windows APIs to ensure safe display adjustments without system conflicts.
 
-<img width="230" height="123" alt="G-Res Tray" src="https://github.com/user-attachments/assets/eee60a3c-1967-49ca-aa4a-b41a46f4355b" />
+<img width="230" height="123" alt="G-Res Tray" src="https://github.com/user-attachments/assets/babbde35-610d-4f9f-ab0d-c862a9fce854" />
 
 ## FAQ
 
