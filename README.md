@@ -2,9 +2,9 @@
 A tool for managing and switching display resolutions. It detects available monitor resolutions with their maximum refresh rates, allows quick resolution changes through a drop-down menu, and binds custom key combinations to switch to specific resolutions instantly.
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="G-Res-Banner.png">
-    <img src="G-Res-Banner.png" width="100%" alt="G-Res Banner: Control your screen however you like">
-  </a>
+  <a target="_blank" rel="noopener noreferrer" href="G-Res-Banner.png" style="text-decoration: none; outline: none; border: none;">
+    <img src="G-Res-Banner.png" width="100%" alt="G-Res Banner: Control your screen however you like" style="border: none; outline: none; box-shadow: none;">
+  </a>
 </p>
 
 ## Interface
