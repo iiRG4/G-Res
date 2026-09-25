@@ -34,14 +34,14 @@ You can enable Run with startup from the settings tab to launch the app automati
 
 ## FAQ
 
-* **Where can I download the latest version?**  
-  You can head over to the [Releases](https://github.com/iiRG4/G-Res/releases) page and download the latest version to ensure the best experience and performance.
+* **Where can I download the latest version?**
+You can head over to the [Releases](https://github.com/iiRG4/G-Res/releases) page and download the latest version to ensure the best experience and performance.
 
-* **What Windows versions are supported?**  
-  G-Res is fully compatible with **Windows 10** and **Windows 11**.
+* **What Windows versions are supported?**
+G-Res is fully compatible with **Windows 10** and **Windows 11**.
 
-* **Does G-Res work while playing games in fullscreen?**  
-  Yes, the hotkeys are global and will switch your resolution even while you are actively running a game.
+* **Does G-Res work while playing games in fullscreen?**
+Yes, the hotkeys are global and will switch your resolution even while you are actively running a game.
 
-* **How do I make the app start automatically with Windows?**  
-  You can simply enable the **Run with startup** option directly from the settings tab.
+* **How do I make the app start automatically with Windows?**
+You can simply enable the **Run with startup** option directly from the settings tab.
