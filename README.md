@@ -12,25 +12,23 @@ A tool for managing and switching display resolutions. It detects available moni
 ### Quick Switch
 Quickly modify Windows resolution without compromising the highest available refresh rate.
 
-<img width="336" height="230" alt="G-Res Quick Switch" src="https://github.com/user-attachments/assets/31efeeb6-3c59-4da9-af09-72f735af1429" />
+<img width="340" height="250" alt="G-Res Quick Switch" src="https://github.com/user-attachments/assets/157d956d-5373-4e75-a42f-589f8fac4330" />
 
 ### Hotkeys Manager
 Assign a custom shortcut to automatically switch your display resolution, even while running a game, and use a dedicated hotkey to enable or disable the monitor directly.
 
-<img width="336" height="216" alt="G-Res Hotkeys Manager" src="https://github.com/user-attachments/assets/02e2268e-fd5f-41dc-9ae7-6dfabb02cf45" />
+<img width="340" height="238" alt="G-Res Hotkeys Manager" src="https://github.com/user-attachments/assets/1a3028af-ba62-4063-9154-88a93ac12e14" />
 
 ### Settings
-You can enable Run with startup from the settings tab to launch the app automatically with Windows.
+You can now change the program language, supporting 9 languages: English, Spanish, French, German, Mandarin Chinese, Hindi, and Arabic. Additionally, you have the option to select which screen you want the program changes to apply to, and you can enable 'Run with startup' from the settings tab to launch the app automatically with Windows.
 
-<img width="332" height="192" alt="G-Res Settings" src="https://github.com/user-attachments/assets/58a5b9b0-286b-4b58-ba07-55b82257df9a" />
+<img width="340" height="232" alt="G-Res Settings" src="https://github.com/user-attachments/assets/b890711e-9e49-406e-9b17-6c8180b031f0" />
 
 ## Features
 
 * **Lightweight & Resource-Efficient:** Minimal CPU and RAM usage with zero performance impact.
 * **Seamless Background Operation:** Runs quietly in the system tray for instant hotkey resolution switching.
 * **Safe & Secure:** Built with clean, standard Windows APIs to ensure safe display adjustments without system conflicts.
-
-<img width="230" height="123" alt="G-Res Tray" src="https://github.com/user-attachments/assets/babbde35-610d-4f9f-ab0d-c862a9fce854" />
 
 ## FAQ
 
