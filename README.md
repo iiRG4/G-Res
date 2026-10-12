@@ -10,17 +10,20 @@ A tool for managing and switching display resolutions. It detects available moni
 ## Interface
 
 ### Quick Switch
-Quickly modify Windows resolution without compromising the highest available refresh rate.
+* **Instant Resolution Change:** Quickly modify Windows resolution through a drop-down menu without compromising the highest available refresh rate.
 
 <img width="340" height="250" alt="G-Res Quick Switch" src="https://github.com/user-attachments/assets/157d956d-5373-4e75-a42f-589f8fac4330" />
 
 ### Hotkeys Manager
-Assign a custom shortcut to automatically switch your display resolution, even while running a game, and use a dedicated hotkey to enable or disable the monitor directly.
+* **Resolution Switching:** Assign custom shortcuts to automatically switch your display resolution instantly, even while running a game.
+* **Enable/Disable Hotkey:** Assign a dedicated hotkey to quickly enable or disable the monitor device in Windows, preventing games from detecting it and keeping your custom stretched resolutions intact.
 
 <img width="340" height="238" alt="G-Res Hotkeys Manager" src="https://github.com/user-attachments/assets/1a3028af-ba62-4063-9154-88a93ac12e14" />
 
 ### Settings
-You can now change the program language, supporting 9 languages: English, Spanish, French, German, Mandarin Chinese, Hindi, and Arabic. Additionally, you have the option to select which screen you want the program changes to apply to, and you can enable 'Run with startup' from the settings tab to launch the app automatically with Windows.
+* **Language:** Easily switch between 9 supported languages: English, Spanish, French, German, Italian, Portuguese, Mandarin Chinese, Hindi, Arabic.
+* **Monitor Selection:** Choose the specific display/monitor you want the resolution changes to apply to.
+* **Run at Startup:** Enable automatic launch with Windows from the settings tab
 
 <img width="340" height="232" alt="G-Res Settings" src="https://github.com/user-attachments/assets/b890711e-9e49-406e-9b17-6c8180b031f0" />
 
